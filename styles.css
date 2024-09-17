@@ -1,0 +1,27 @@
+body{
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.img-hover:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+.btn-hover:hover {
+    background-color: #0056b3;
+    transition: background-color 0.3s ease;
+}
